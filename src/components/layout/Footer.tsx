@@ -84,15 +84,6 @@ export function Footer() {
               </li>
               <li>
                 <a
-                  href="tel:+34653385301"
-                  className="flex items-center gap-3 text-primary-foreground/70 hover:text-primary-foreground transition-colors text-sm"
-                >
-                  <Phone className="w-4 h-4" />
-                  <span>653 38 53 01</span>
-                </a>
-              </li>
-              <li>
-                <a
                   href="mailto:info@inmoterreta.es"
                   className="flex items-center gap-3 text-primary-foreground/70 hover:text-primary-foreground transition-colors text-sm"
                 >
